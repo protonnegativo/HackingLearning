@@ -3,7 +3,7 @@
 ### O projeto nasceu no [discord](https://discord.gg/RfwqmyH) e tem como objetivo estudarmos asssuntos na area de hacking.
 
 <div align='center'>
-    <img src='https://thumbs.gfycat.com/AgedMiniatureBoto-mobile.mp4'>
+    <img src='https://media.giphy.com/media/HAonhTZTaQE24/giphy.gif'>
 </div>
 
 ## Steaps
