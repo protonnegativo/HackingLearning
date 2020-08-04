@@ -1,5 +1,11 @@
 # HackingLearning
-## Projeto para aprender spbre hacking no geral
+
+## Projeto para aprender sobre hacking no geral
+
+[Acesso nosso Discord](https://discord.gg/RfwqmyH)
+
+| Materias |
+| --- |
+| ShellScript |
 
 
-![codigo](https://github.com/protonnegativo/HackingLearning/blob/master/codigo.png)
