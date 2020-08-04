@@ -2,6 +2,10 @@
 
 ### O projeto nasceu no [discord](https://discord.gg/RfwqmyH) e tem como objetivo estudarmos asssuntos na area de hacking.
 
+<div align='center'>
+    <img src='https://media.giphy.com/media/pALw8LdftuqAw/giphy.gif'>
+</div>
+
 ## Steaps
 - <b>INICIO</b>  Votamos nos assuntos que gostaríamos de aprender. O tema ganhador é o assuntos que vamos estudar por tempo indeterminado.
 
