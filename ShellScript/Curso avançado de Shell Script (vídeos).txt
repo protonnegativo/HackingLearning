@@ -1,0 +1,23 @@
+Curso (vídeos) de Shell Script (Avançado) - TerminalRoot
+
+Episódios:
+	1 - Introdução:
+		https://youtu.be/sIYW_jYVfmY
+	2 - Dicas para Shell Linux:
+		https://www.youtube.com/watch?v=2IaQQ9MFYn0
+	3 - Shell Script Pro:
+		https://www.youtube.com/watch?v=WygvBW1KOgM
+	4 - Extrair dados do Youtube via Shell Script:
+		https://www.youtube.com/watch?v=8xwk2-j8lw8
+	5 - Como rodar Shell Script e Python via Apache:
+		https://www.youtube.com/watch?v=5hQyfXIMviM
+	6 - Como criar um FETCH (estilo ScreenFetch):
+		https://www.youtube.com/watch?v=2_tnd8g-IMc
+	7 - Criando sistema de desligamento para i3:
+		https://www.youtube.com/watch?v=Szoid9aH9Tw
+	8 - Um Shell para amantes de Python:
+		https://www.youtube.com/watch?v=7dKWvTFoRts
+	9 - Criando um app Web que tranforma código em imagem:
+		https://www.youtube.com/watch?v=q-nDkg1PauE
+	10 - Criando um programaa que adiciona vídeo como papel de parede:
+		https://www.youtube.com/watch?v=Mb0SXMft2sw
