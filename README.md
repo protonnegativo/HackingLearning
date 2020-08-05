@@ -22,4 +22,4 @@
 | ---- | ---- |
 | Terça | 21h ás 22h30 |
 | Quinta | 22h ás 23h30 | 
-| Sábado | <p align=center> 15h ás ∞ </p> |
+| Sábado | 15h ás ∞ |
