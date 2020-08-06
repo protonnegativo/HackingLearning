@@ -1,0 +1,12 @@
+Curso (vídeos) de Shell Script (introdutório) - TerminalRoot
+
+Episódios:
+	1 - Apenas explicando e divulgando o curso.
+	2 - Introdução e conceitos:
+		https://www.youtube.com/watch?v=vvp25pEgSb4
+	3 - Primeiro Script:
+		https://www.youtube.com/watch?v=2_V-lr6w1uE
+	4 - Variáveis e Arrays:
+		https://www.youtube.com/watch?v=HTc2TTnfuNc
+	5 - Funções:
+		https://www.youtube.com/watch?v=RTeV2UsXY1k
