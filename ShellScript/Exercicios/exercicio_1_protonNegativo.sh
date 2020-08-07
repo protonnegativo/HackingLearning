@@ -7,6 +7,6 @@ echo -e "\033[0;30m  _____           _
  |_|   |_|  \___/ \__\___/|_| |_| \033[0m
 		           
 		     "
-echo "Olha user"
+echo "Ola user"
 ping -c2 www.google.com
 echo "O site esta online"
