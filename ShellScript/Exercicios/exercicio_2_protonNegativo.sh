@@ -12,5 +12,5 @@ echo "Qual o site desejado"
 read alvo
 ping -c2 $alvo > ping.txt
 echo "voce esta:" `pwd`
-echo "o resultado do ping foi:" 
+echo "o resultado do ping é:" 
 cat ping.txt
