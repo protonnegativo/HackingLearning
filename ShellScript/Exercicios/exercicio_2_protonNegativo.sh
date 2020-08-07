@@ -8,7 +8,7 @@ echo -e "\033[0;30m  _____           _
                            
                      "
 echo "Bom dia usuario" `whoami`
-echo "Qual site desejado?"
+echo "Qual o site desejado"
 read alvo
 ping -c2 $alvo > ping.txt
 echo "voce esta:" `pwd`
