@@ -13,16 +13,10 @@
 
 - <b>"FIM"</b> Fazemos uma revisão geral e avaliação dependendo o tema podemos fazer projetos em conjunto, debate, prova etc.
 <p align='right'>
-   <a href="https://discord.gg/ZuPfJ6" >	
+   <a href="https://discord.gg/RyvXn8" >	
         <img src="https://img.shields.io/discord/304088484228890644?color=green&label=Discord&logo=discord" alt="Discord Invite"/>	
     </a>
 </p>
-
-| Dias | Horarios |
-| ---- | ---- |
-| Terça | 21h ás 22h30 |
-| Quinta | 22h ás 23h30 | 
-| Sábado | 15h ás ∞ |
 
 <h1>Norte para quem esta perdido </h1>
 
